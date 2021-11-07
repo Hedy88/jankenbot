@@ -1,0 +1,12 @@
+{
+  "name": "jankenbot",
+  "version": "1.0.0",
+  "description": "trollbox bot made in js",
+  "main": "index.js",
+  "repository": "https://github.com/Hedy88/jankenbot.git",
+  "author": "Hedy <43907004+Hedy88@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "^4.3.2"
+  }
+}
